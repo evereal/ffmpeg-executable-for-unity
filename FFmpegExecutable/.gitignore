@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# FFmpeg executables
+[Aa]ssets/StreamingAssets/FFmpeg
